@@ -1,0 +1,7 @@
+﻿  Server2.cpp
+C:\Users\chete\OneDrive\Рабочий стол\build-OSiSPkursach1-Desktop_Qt_6_6_2_MinGW_64_bit-Debug\Server2\Server2\Server2.cpp(44,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\chete\OneDrive\Рабочий стол\build-OSiSPkursach1-Desktop_Qt_6_6_2_MinGW_64_bit-Debug\Server2\Server2\Server2.cpp(54,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\chete\OneDrive\Рабочий стол\build-OSiSPkursach1-Desktop_Qt_6_6_2_MinGW_64_bit-Debug\Server2\Server2\Server2.cpp(67,75): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server2.vcxproj -> C:\Users\chete\OneDrive\Рабочий стол\build-OSiSPkursach1-Desktop_Qt_6_6_2_MinGW_64_bit-Debug\Server2\x64\Debug\Server2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

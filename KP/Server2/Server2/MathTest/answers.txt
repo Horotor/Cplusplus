@@ -1,0 +1,4 @@
+Question: 1, Answer: 1. x = 5
+Question: 2, Answer: 24
+Question: 3, Answer: 20
+Question: 4, Answer: 12

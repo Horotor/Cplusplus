@@ -1,0 +1,25 @@
+Question: 1, Answer: 3. Paris
+Question: 10, Answer: 1. Tokyo
+Question: 3, Answer: 1. Tokyo
+Question: 4, Answer: 3. William Shakespeare
+Question: 5, Answer: 1. Tokyo
+Question: 6, Answer: 1. Tokyo
+Question: 7, Answer: 3. Nitrogen
+Question: 8, Answer: 1. Tokyo
+Question: 9, Answer: 2. H2O
+Question: 2, Answer: 2. Nile River
+Question: 1, Answer: 1. x = 5
+Question: 4, Answer: 16
+Question: 1, Answer: 3. Paris
+Question: 10, Answer: 1. Tokyo
+Question: 3, Answer: 1. Tokyo
+Question: 4, Answer: 3. William Shakespeare
+Question: 5, Answer: 1. Tokyo
+Question: 6, Answer: 1. Tokyo
+Question: 7, Answer: 4. Hydrogen
+Question: 8, Answer: 1. Tokyo
+Question: 9, Answer: 2. H2O
+Question: 2, Answer: 1. Amazon River
+Question: 1, Answer: 1. Berlin
+Question: 6, Answer: 1. Tokyo
+Question: 2, Answer: 2. Nile River

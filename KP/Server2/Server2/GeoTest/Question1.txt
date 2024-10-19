@@ -1,0 +1,6 @@
+What is the capital of France?
+1. Berlin
+2. Madrid
+3. Paris
+4. Rome
+3
